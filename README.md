@@ -10,14 +10,14 @@ Página Spotify é uma aplicação front-end web autoral desenvolvido com o obje
 A aplicação consiste em uma página Html com recursos do Bootstrap e do CSS simulando uma página do Spotify.
 
 ## Disposição móvel
-![Mobile 1](https://github.com/Mopi98/clonespotify/blob/main/assets/mobile-1.PNG) ![Mobile 2](https://github.com/Mopi98/clonespotify/blob/main/assets/mobile-2.PNG) ![Mobile 3](https://github.com/Mopi98/clonespotify/blob/main/assets/mobile-3.PNG)
+![Mobile 1](https://github.com/Mopi98/clonespotify/blob/main/assets/mobile-1.PNG) ![Mobile 2](https://github.com/Mopi98/clonespotify/blob/main/assets/mobile-2.PNG) ![Mobile 3](https://github.com/Mopi98/clonespotify/blob/main/assets/mobile-3.png)
 
 ## Layout web
 ![Web 1](https://github.com/Mopi98/clonespotify/blob/main/assets/web1.PNG)
 
 ![Web 2](https://github.com/Mopi98/clonespotify/blob/main/assets/web2.PNG)
 
-![Web 3](https://github.com/Mopi98/clonespotify/blob/main/assets/web3.PNG)
+![Web 3](https://github.com/Mopi98/clonespotify/blob/main/assets/web3.png)
 
 # Tecnologias utilizadas
 - HTML
