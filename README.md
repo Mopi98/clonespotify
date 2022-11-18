@@ -15,7 +15,7 @@ A aplicação consiste em uma página Html com recursos do Bootstrap e do CSS si
 ## Layout web
 ![Web 1](https://github.com/Mopi98/clonespotify/blob/main/assets/web1.PNG)
 
-![Web 2](https://github.com/Mopi98/clonespotify/blob/main/assets/web2.PNG)
+![Web 2](https://github.com/Mopi98/clonespotify/blob/main/assets/web2.png)
 
 ![Web 3](https://github.com/Mopi98/clonespotify/blob/main/assets/web3.png)
 
