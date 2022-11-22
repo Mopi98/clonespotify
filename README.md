@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-https://mopibuylist.netlify.app/#home
+https://mopispotify.netlify.app
 
 Página Spotify é uma aplicação front-end web autoral desenvolvido com o objetivo de estudo, focando na aplicação dos recursos do Bootstrap e do CSS para fazer uma página semelhante a página do Spotify.
 
